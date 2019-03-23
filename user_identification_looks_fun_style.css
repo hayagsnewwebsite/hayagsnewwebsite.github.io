@@ -1,0 +1,10 @@
+{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background-image: url(fun_background.jpg);
+  height: 100vh;
+  background-size: cover;
+}
